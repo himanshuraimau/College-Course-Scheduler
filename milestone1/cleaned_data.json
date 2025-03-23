@@ -1299,7 +1299,7 @@
       "department": "English"
     },
     {
-      "code": NaN,
+      "code": null,
       "title": "Study Hall (Semester)",
       "length": 1,
       "priority": "requested",
@@ -2805,7 +2805,7 @@
             "term": "Second Term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -3751,7 +3751,7 @@
             "term": "First term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -4705,7 +4705,7 @@
             "term": "Second Term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -6009,7 +6009,7 @@
             "term": "First term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -7377,7 +7377,7 @@
             "term": "First term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -8135,7 +8135,7 @@
             "term": "Second Term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -9010,7 +9010,7 @@
             "term": "Second Term"
           },
           {
-            "code": NaN,
+            "code": null,
             "title": "Study Hall (Semester)",
             "length": 1,
             "term": "Second Term"
@@ -11383,7 +11383,7 @@
           "section": 1
         },
         {
-          "code": NaN,
+          "code": null,
           "title": "Study Hall (Semester)",
           "length": 1,
           "section": 1
@@ -11644,14 +11644,14 @@
   "rooms": [
     {
       "room_number": "101",
-      "capacity": 25,
-      "type": "Studio",
+      "capacity": 30,
+      "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "102",
-      "capacity": 35,
-      "type": "Standard",
+      "capacity": 25,
+      "type": "Studio",
       "building": "Main Building"
     },
     {
@@ -11668,74 +11668,74 @@
     },
     {
       "room_number": "105",
-      "capacity": 30,
-      "type": "Studio",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "106",
-      "capacity": 20,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "107",
-      "capacity": 25,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "108",
-      "capacity": 40,
-      "type": "Lecture Hall",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "109",
-      "capacity": 20,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "110",
-      "capacity": 30,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "111",
-      "capacity": 30,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "112",
       "capacity": 35,
       "type": "Standard",
       "building": "Main Building"
     },
     {
-      "room_number": "113",
+      "room_number": "106",
+      "capacity": 35,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "107",
+      "capacity": 35,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "108",
+      "capacity": 25,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "109",
+      "capacity": 30,
+      "type": "Lab",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "110",
+      "capacity": 35,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "111",
       "capacity": 40,
       "type": "Standard",
       "building": "Main Building"
     },
     {
+      "room_number": "112",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "113",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
       "room_number": "114",
-      "capacity": 20,
+      "capacity": 30,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "115",
-      "capacity": 20,
+      "capacity": 25,
       "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "116",
-      "capacity": 25,
-      "type": "Studio",
+      "capacity": 30,
+      "type": "Standard",
       "building": "Main Building"
     },
     {
@@ -11746,32 +11746,32 @@
     },
     {
       "room_number": "118",
-      "capacity": 35,
-      "type": "Standard",
+      "capacity": 25,
+      "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "119",
-      "capacity": 30,
+      "capacity": 25,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "120",
       "capacity": 30,
-      "type": "Studio",
+      "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "121",
       "capacity": 30,
-      "type": "Standard",
+      "type": "Lecture Hall",
       "building": "Main Building"
     },
     {
       "room_number": "122",
-      "capacity": 25,
-      "type": "Standard",
+      "capacity": 30,
+      "type": "Studio",
       "building": "Main Building"
     },
     {
@@ -11782,38 +11782,38 @@
     },
     {
       "room_number": "124",
-      "capacity": 20,
-      "type": "Studio",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "125",
-      "capacity": 25,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "126",
-      "capacity": 40,
-      "type": "Lab",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "127",
-      "capacity": 35,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "128",
       "capacity": 30,
       "type": "Standard",
       "building": "Main Building"
     },
     {
-      "room_number": "129",
-      "capacity": 25,
+      "room_number": "125",
+      "capacity": 20,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "126",
+      "capacity": 20,
       "type": "Lecture Hall",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "127",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "128",
+      "capacity": 40,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "129",
+      "capacity": 30,
+      "type": "Standard",
       "building": "Main Building"
     }
   ],

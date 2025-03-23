@@ -38,14 +38,3 @@ Valid data: Yes
 
 - Course LANSP2 has demand of 47 but capacity of only 40
 - Course BIB11 has demand of 41 but capacity of only 40
-
-## Visualizations
-
-### Course Demand by Priority
-
-![Course Demand](./visualizations/course_demand.png)
-
-### Student Distribution by Year
-
-![Student Years](./visualizations/student_years.png)
-

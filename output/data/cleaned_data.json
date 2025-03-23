@@ -11650,61 +11650,61 @@
     },
     {
       "room_number": "102",
-      "capacity": 20,
+      "capacity": 25,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "103",
-      "capacity": 40,
+      "capacity": 35,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "104",
       "capacity": 30,
-      "type": "Standard",
+      "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "105",
       "capacity": 40,
-      "type": "Studio",
+      "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "106",
-      "capacity": 40,
-      "type": "Standard",
+      "capacity": 35,
+      "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "107",
-      "capacity": 35,
-      "type": "Standard",
+      "capacity": 30,
+      "type": "Lab",
       "building": "Main Building"
     },
     {
       "room_number": "108",
       "capacity": 30,
-      "type": "Studio",
+      "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "109",
-      "capacity": 30,
+      "capacity": 40,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "110",
       "capacity": 40,
-      "type": "Lecture Hall",
+      "type": "Studio",
       "building": "Main Building"
     },
     {
       "room_number": "111",
-      "capacity": 40,
+      "capacity": 35,
       "type": "Standard",
       "building": "Main Building"
     },
@@ -11716,7 +11716,7 @@
     },
     {
       "room_number": "113",
-      "capacity": 20,
+      "capacity": 40,
       "type": "Standard",
       "building": "Main Building"
     },
@@ -11728,92 +11728,92 @@
     },
     {
       "room_number": "115",
-      "capacity": 20,
-      "type": "Lab",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "116",
-      "capacity": 30,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "117",
       "capacity": 25,
       "type": "Standard",
       "building": "Main Building"
     },
     {
-      "room_number": "118",
+      "room_number": "116",
       "capacity": 20,
       "type": "Standard",
       "building": "Main Building"
     },
     {
-      "room_number": "119",
-      "capacity": 35,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "120",
-      "capacity": 20,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "121",
-      "capacity": 40,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "122",
+      "room_number": "117",
       "capacity": 30,
       "type": "Standard",
       "building": "Main Building"
     },
     {
+      "room_number": "118",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "119",
+      "capacity": 25,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "120",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "121",
+      "capacity": 30,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
+      "room_number": "122",
+      "capacity": 20,
+      "type": "Standard",
+      "building": "Main Building"
+    },
+    {
       "room_number": "123",
-      "capacity": 35,
+      "capacity": 20,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "124",
       "capacity": 40,
-      "type": "Standard",
-      "building": "Main Building"
-    },
-    {
-      "room_number": "125",
-      "capacity": 25,
       "type": "Lecture Hall",
       "building": "Main Building"
     },
     {
-      "room_number": "126",
-      "capacity": 30,
+      "room_number": "125",
+      "capacity": 40,
       "type": "Standard",
       "building": "Main Building"
     },
     {
+      "room_number": "126",
+      "capacity": 25,
+      "type": "Lab",
+      "building": "Main Building"
+    },
+    {
       "room_number": "127",
-      "capacity": 30,
+      "capacity": 35,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "128",
-      "capacity": 25,
+      "capacity": 30,
       "type": "Standard",
       "building": "Main Building"
     },
     {
       "room_number": "129",
-      "capacity": 30,
-      "type": "Standard",
+      "capacity": 35,
+      "type": "Lab",
       "building": "Main Building"
     }
   ],
