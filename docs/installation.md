@@ -12,7 +12,7 @@
 2. Install the required dependencies:
 
 ```bash
-cd /home/himanshu/Downloads/test
+cd College-Course-Schedular
 pip install -r requirements.txt
 ```
 
@@ -37,7 +37,7 @@ Ensure the following input files are available in the project root directory:
 To run the scheduler, execute:
 
 ```bash
-cd /home/himanshu/Downloads/test
+cd College-Course-Schedular
 python src/run.py
 ```
 

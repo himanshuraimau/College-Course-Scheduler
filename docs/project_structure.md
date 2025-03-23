@@ -5,7 +5,7 @@ The project follows a modular architecture to separate concerns and make the cod
 ## Directory Structure
 
 ```
-/home/himanshu/Downloads/test/
+/College-Course-Schedular
 ├── dataset.xlsx - Student requests.csv
 ├── dataset.xlsx - Course list.csv
 ├── dataset.xlsx - Lecturer Details.csv

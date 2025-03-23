@@ -14,11 +14,11 @@ pip install -r requirements.txt
 ```
 
 2. Ensure the input data files are in the correct location:
-   - `/home/himanshu/Downloads/test/dataset.xlsx - Student requests.csv`
-   - `/home/himanshu/Downloads/test/dataset.xlsx - Course list.csv`
-   - `/home/himanshu/Downloads/test/dataset.xlsx - Lecturer Details.csv`
-   - `/home/himanshu/Downloads/test/dataset.xlsx - Rooms data.csv`
-   - `/home/himanshu/Downloads/test/dataset.xlsx - RULES.csv`
+   - `/dataset.xlsx - Student requests.csv`
+   - `/dataset.xlsx - Course list.csv`
+   - `/dataset.xlsx - Lecturer Details.csv`
+   - `/dataset.xlsx - Rooms data.csv`
+   - `/dataset.xlsx - RULES.csv`
 
 ## Running the Scheduler
 
