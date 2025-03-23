@@ -1,0 +1,1802 @@
+{
+  "course_blocks": {
+    "LANSP2": [
+      "1A"
+    ],
+    "BIB11": [
+      "1B"
+    ],
+    "BIB10": [
+      "2A"
+    ],
+    "SCICHEM10H": [
+      "2B"
+    ],
+    "PEHealthHS": [
+      "3"
+    ],
+    "BIB12": [
+      "4A"
+    ],
+    "SOC9": [
+      "4B"
+    ],
+    "TECHDIGIT": [
+      "1A"
+    ],
+    "PEHS": [
+      "1B"
+    ],
+    "MATALG2H": [
+      "2A"
+    ],
+    "SOC10GOV": [
+      "2B"
+    ],
+    "LANSP1": [
+      "3"
+    ],
+    "MATALG2": [
+      "4A"
+    ],
+    "TECHGRAPHIC": [
+      "4B"
+    ],
+    "BIB9": [
+      "1A"
+    ],
+    "DEENG151": [
+      "1B"
+    ],
+    "SOC11": [
+      "2A"
+    ],
+    "STUDY": [
+      "2B"
+    ],
+    "SCIERTH": [
+      "3"
+    ],
+    "FINLIT": [
+      "4A"
+    ],
+    "ENG10H": [
+      "4B"
+    ],
+    "ENG10": [
+      "1A"
+    ],
+    "SCIBIO": [
+      "1B"
+    ],
+    "ENG11": [
+      "2A"
+    ],
+    "SCIBIOH": [
+      "2B"
+    ],
+    "ENG11AMLTH-": [
+      "3"
+    ],
+    "DEWCIV1": [
+      "4A"
+    ],
+    "MATTRIG": [
+      "4B"
+    ],
+    "MATGEOMH": [
+      "1A"
+    ],
+    "SOC10GOVH": [
+      "1B"
+    ],
+    "ARTBND": [
+      "2A"
+    ],
+    "ARTDRAW": [
+      "2B"
+    ],
+    "MATGEOM": [
+      "3"
+    ],
+    "ENG9": [
+      "4A"
+    ],
+    "SCIPHY": [
+      "4B"
+    ],
+    "DEBIO101": [
+      "1A"
+    ],
+    "ARTChor": [
+      "1B"
+    ],
+    "MATTrigH": [
+      "2A"
+    ],
+    "SCIANATPH": [
+      "2B"
+    ],
+    "ENG9H": [
+      "3"
+    ],
+    "INTERN1": [
+      "4A"
+    ],
+    "INTERN2": [
+      "4B"
+    ],
+    "ENG12WORLD": [
+      "1A"
+    ],
+    "ARTSTD2": [
+      "1B"
+    ],
+    "MATHALGIII": [
+      "2A"
+    ],
+    "LANSP3": [
+      "2B"
+    ],
+    "ARTSTD1": [
+      "3"
+    ],
+    "SCIMABIO": [
+      "4A"
+    ],
+    "FAF": [
+      "4B"
+    ],
+    "PEPF": [
+      "1A"
+    ],
+    "MATALG1": [
+      "1B"
+    ],
+    "TECHADVROB": [
+      "2A"
+    ],
+    "PERS": [
+      "2B"
+    ],
+    "ENG12WORLDH": [
+      "3"
+    ],
+    "SCIPHYH": [
+      "4A"
+    ],
+    "TECHYEAR": [
+      "4B"
+    ],
+    "MATAPCALCAB": [
+      "1A"
+    ],
+    "APComp": [
+      "1B"
+    ],
+    "MATHSTATSH": [
+      "2A"
+    ],
+    "MATALG1H": [
+      "2B"
+    ],
+    "SOCCONT": [
+      "3"
+    ],
+    "DESOCIP": [
+      "4A"
+    ],
+    "SOCMODUS": [
+      "4B"
+    ],
+    "DESOCWCIV2": [
+      "1A"
+    ],
+    "TECHBRJR": [
+      "1B"
+    ],
+    "SOCIB": [
+      "2A"
+    ],
+    "ENGSPCH": [
+      "2B"
+    ],
+    "DEITCHG": [
+      "3"
+    ],
+    "DECHEM105": [
+      "4A"
+    ],
+    "INDSTUDY1": [
+      "4B"
+    ],
+    "INDSTUDY2": [
+      "1A"
+    ],
+    "ENGJOUR": [
+      "1B"
+    ],
+    "DEENG101": [
+      "2A"
+    ],
+    "MATDESTATS": [
+      "2B"
+    ]
+  },
+  "course_rooms": {
+    "LANSP2": {
+      "1A": "101"
+    },
+    "BIB11": {
+      "1B": "101"
+    },
+    "BIB10": {
+      "2A": "101"
+    },
+    "SCICHEM10H": {
+      "2B": "101"
+    },
+    "PEHealthHS": {
+      "3": "101"
+    },
+    "BIB12": {
+      "4A": "101"
+    },
+    "SOC9": {
+      "4B": "101"
+    },
+    "TECHDIGIT": {
+      "1A": "102"
+    },
+    "PEHS": {
+      "1B": "102"
+    },
+    "MATALG2H": {
+      "2A": "102"
+    },
+    "SOC10GOV": {
+      "2B": "102"
+    },
+    "LANSP1": {
+      "3": "102"
+    },
+    "MATALG2": {
+      "4A": "102"
+    },
+    "TECHGRAPHIC": {
+      "4B": "102"
+    },
+    "BIB9": {
+      "1A": "103"
+    },
+    "DEENG151": {
+      "1B": "103"
+    },
+    "SOC11": {
+      "2A": "103"
+    },
+    "STUDY": {
+      "2B": "103"
+    },
+    "SCIERTH": {
+      "3": "103"
+    },
+    "FINLIT": {
+      "4A": "103"
+    },
+    "ENG10H": {
+      "4B": "103"
+    },
+    "ENG10": {
+      "1A": "104"
+    },
+    "SCIBIO": {
+      "1B": "104"
+    },
+    "ENG11": {
+      "2A": "104"
+    },
+    "SCIBIOH": {
+      "2B": "104"
+    },
+    "ENG11AMLTH-": {
+      "3": "104"
+    },
+    "DEWCIV1": {
+      "4A": "104"
+    },
+    "MATTRIG": {
+      "4B": "104"
+    },
+    "MATGEOMH": {
+      "1A": "105"
+    },
+    "SOC10GOVH": {
+      "1B": "105"
+    },
+    "ARTBND": {
+      "2A": "105"
+    },
+    "ARTDRAW": {
+      "2B": "105"
+    },
+    "MATGEOM": {
+      "3": "105"
+    },
+    "ENG9": {
+      "4A": "105"
+    },
+    "SCIPHY": {
+      "4B": "105"
+    },
+    "DEBIO101": {
+      "1A": "106"
+    },
+    "ARTChor": {
+      "1B": "106"
+    },
+    "MATTrigH": {
+      "2A": "106"
+    },
+    "SCIANATPH": {
+      "2B": "106"
+    },
+    "ENG9H": {
+      "3": "106"
+    },
+    "INTERN1": {
+      "4A": "106"
+    },
+    "INTERN2": {
+      "4B": "106"
+    },
+    "ENG12WORLD": {
+      "1A": "107"
+    },
+    "ARTSTD2": {
+      "1B": "107"
+    },
+    "MATHALGIII": {
+      "2A": "107"
+    },
+    "LANSP3": {
+      "2B": "107"
+    },
+    "ARTSTD1": {
+      "3": "107"
+    },
+    "SCIMABIO": {
+      "4A": "107"
+    },
+    "FAF": {
+      "4B": "107"
+    },
+    "PEPF": {
+      "1A": "108"
+    },
+    "MATALG1": {
+      "1B": "108"
+    },
+    "TECHADVROB": {
+      "2A": "108"
+    },
+    "PERS": {
+      "2B": "108"
+    },
+    "ENG12WORLDH": {
+      "3": "108"
+    },
+    "SCIPHYH": {
+      "4A": "108"
+    },
+    "TECHYEAR": {
+      "4B": "108"
+    },
+    "MATAPCALCAB": {
+      "1A": "109"
+    },
+    "APComp": {
+      "1B": "109"
+    },
+    "MATHSTATSH": {
+      "2A": "109"
+    },
+    "MATALG1H": {
+      "2B": "109"
+    },
+    "SOCCONT": {
+      "3": "109"
+    },
+    "DESOCIP": {
+      "4A": "109"
+    },
+    "SOCMODUS": {
+      "4B": "109"
+    },
+    "DESOCWCIV2": {
+      "1A": "110"
+    },
+    "TECHBRJR": {
+      "1B": "110"
+    },
+    "SOCIB": {
+      "2A": "110"
+    },
+    "ENGSPCH": {
+      "2B": "110"
+    },
+    "DEITCHG": {
+      "3": "110"
+    },
+    "DECHEM105": {
+      "4A": "110"
+    },
+    "INDSTUDY1": {
+      "4B": "110"
+    },
+    "INDSTUDY2": {
+      "1A": "111"
+    },
+    "ENGJOUR": {
+      "1B": "111"
+    },
+    "DEENG101": {
+      "2A": "111"
+    },
+    "MATDESTATS": {
+      "2B": "111"
+    }
+  },
+  "student_schedules": {
+    "5407488": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SOC10GOV",
+      "1A": "TECHDIGIT",
+      "1B": "SOC10GOVH"
+    },
+    "5361799": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "2B": "SCIBIOH",
+      "3": "LANSP1"
+    },
+    "5361901": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "3": "PEHealthHS"
+    },
+    "5361882": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH",
+      "4A": "DEWCIV1",
+      "2B": "SCIANATPH",
+      "4B": "MATTRIG"
+    },
+    "5361922": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "1A": "DEBIO101",
+      "4B": "MATTRIG",
+      "2B": "STUDY",
+      "3": "ENG12WORLDH"
+    },
+    "5361842": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "3": "PEHealthHS",
+      "4B": "ENG10H"
+    },
+    "5361905": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH",
+      "4A": "SCIMABIO",
+      "2B": "SCIANATPH",
+      "4B": "MATTRIG"
+    },
+    "5361867": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5642283": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "1B": "MATALG1",
+      "4A": "ENG9",
+      "3": "ARTSTD1"
+    },
+    "5361838": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361926": {
+      "4A": "BIB12",
+      "1A": "DEBIO101",
+      "1B": "DEENG151",
+      "2A": "MATHALGIII",
+      "4B": "TECHYEAR",
+      "2B": "STUDY",
+      "3": "ENG12WORLDH"
+    },
+    "5407561": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "MATTRIG",
+      "1A": "LANSP2",
+      "4A": "FINLIT"
+    },
+    "5361859": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5361806": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "ARTSTD2"
+    },
+    "5434946": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "3": "MATGEOM",
+      "2B": "SCIBIOH"
+    },
+    "5361937": {
+      "4A": "BIB12",
+      "1A": "MATAPCALCAB",
+      "4B": "TECHGRAPHIC",
+      "2B": "ARTDRAW",
+      "1B": "DEENG151"
+    },
+    "5593175": {
+      "4A": "BIB12",
+      "1A": "DEBIO101",
+      "2A": "MATTrigH",
+      "1B": "DEENG151",
+      "4B": "INTERN2",
+      "3": "ENG12WORLDH"
+    },
+    "5361915": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "4B": "INTERN2",
+      "1B": "ARTChor"
+    },
+    "5361874": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2B": "SCIANATPH",
+      "2A": "ARTBND"
+    },
+    "5439293": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "3": "MATGEOM",
+      "1B": "SCIBIO"
+    },
+    "5361884": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4A": "MATALG2",
+      "3": "SCIERTH"
+    },
+    "5361797": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "2A": "ARTBND",
+      "1B": "PEHS"
+    },
+    "5407520": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH"
+    },
+    "5361892": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2"
+    },
+    "5361820": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "PEHealthHS",
+      "1B": "PEHS",
+      "4A": "ENG9"
+    },
+    "5361879": {
+      "1B": "BIB11",
+      "4A": "MATALG2",
+      "2B": "SCICHEM10H",
+      "2A": "ARTBND",
+      "4B": "SOCMODUS",
+      "3": "ENG11AMLTH-",
+      "1A": "DESOCWCIV2"
+    },
+    "5361897": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH",
+      "4A": "DEWCIV1",
+      "1A": "DESOCWCIV2",
+      "2B": "STUDY",
+      "4B": "MATTRIG"
+    },
+    "5361808": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361811": {
+      "2B": "SCIBIOH",
+      "1A": "MATGEOMH"
+    },
+    "5361827": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2"
+    },
+    "5361810": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "MATALG1H",
+      "1B": "SCIBIO"
+    },
+    "5407518": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV"
+    },
+    "5361900": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "MATTRIG",
+      "2B": "SCICHEM10H",
+      "4A": "FINLIT"
+    },
+    "5361929": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "2A": "MATHALGIII"
+    },
+    "5361880": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "2B": "SCICHEM10H",
+      "4A": "FINLIT",
+      "4B": "MATTRIG"
+    },
+    "5361863": {
+      "2A": "BIB10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1A": "ENG10",
+      "1B": "ARTSTD2"
+    },
+    "5361802": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361923": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "1A": "MATAPCALCAB",
+      "2A": "ARTBND",
+      "4B": "TECHGRAPHIC",
+      "2B": "STUDY",
+      "3": "ENG12WORLDH"
+    },
+    "5407593": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH",
+      "2B": "SCICHEM10H",
+      "4B": "SOC9",
+      "4A": "FINLIT"
+    },
+    "5409913": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4A": "MATALG2",
+      "1A": "TECHDIGIT",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361857": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5361904": {
+      "1B": "BIB11",
+      "2A": "MATALG2H",
+      "4B": "SCIPHY",
+      "3": "PEHealthHS",
+      "1A": "LANSP2",
+      "4A": "MATALG2"
+    },
+    "5407564": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATTrigH",
+      "4B": "SOC9",
+      "2B": "SCICHEM10H",
+      "3": "ENG12WORLDH"
+    },
+    "5361836": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5510555": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "1B": "ARTChor",
+      "2B": "SCIBIOH"
+    },
+    "5407543": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2"
+    },
+    "5424569": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATALG2H",
+      "2B": "SOC10GOV",
+      "1A": "LANSP2",
+      "4A": "FINLIT"
+    },
+    "5424570": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH"
+    },
+    "5361809": {
+      "1A": "BIB9",
+      "4B": "SOC9"
+    },
+    "5361789": {
+      "4A": "BIB12",
+      "1B": "APComp",
+      "2A": "TECHADVROB",
+      "1A": "TECHDIGIT",
+      "4B": "TECHGRAPHIC",
+      "3": "ENG12WORLDH"
+    },
+    "5407517": {
+      "2A": "BIB10",
+      "1B": "SOC10GOVH",
+      "2B": "SCICHEM10H",
+      "4B": "ENG10H",
+      "4A": "MATALG2",
+      "3": "PEHealthHS"
+    },
+    "5361800": {
+      "1B": "SCIBIO",
+      "3": "MATGEOM"
+    },
+    "5361890": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2",
+      "3": "ARTSTD1",
+      "2B": "PERS",
+      "1A": "PEPF"
+    },
+    "5361821": {
+      "3": "ENG9H",
+      "1B": "SCIBIO"
+    },
+    "5361912": {
+      "4A": "BIB12",
+      "2B": "SCICHEM10H",
+      "1A": "ENG12WORLD",
+      "3": "SOCCONT",
+      "1B": "DEENG151",
+      "4B": "MATTRIG"
+    },
+    "5361858": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5407498": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "4B": "MATTRIG",
+      "1A": "DEBIO101",
+      "2B": "STUDY",
+      "3": "ENG12WORLDH",
+      "2A": "MATALG2H"
+    },
+    "5361856": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361899": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4A": "MATALG2",
+      "4B": "SCIPHY",
+      "1A": "TECHDIGIT"
+    },
+    "5361896": {
+      "1B": "BIB11",
+      "2B": "SCICHEM10H",
+      "2A": "SOC11",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361834": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SOC10GOV",
+      "3": "SCIERTH",
+      "1A": "LANSP2",
+      "1B": "SOC10GOVH"
+    },
+    "5361907": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "4B": "MATTRIG"
+    },
+    "5361921": {
+      "4A": "BIB12",
+      "1B": "APComp",
+      "2A": "TECHADVROB",
+      "1A": "PEPF",
+      "2B": "PERS"
+    },
+    "5361893": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "2B": "ARTDRAW"
+    },
+    "5361801": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "MATALG1",
+      "3": "PEHealthHS"
+    },
+    "5361828": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361908": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "4B": "MATTRIG",
+      "2B": "STUDY"
+    },
+    "5361807": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "2B": "MATALG1H",
+      "1B": "SCIBIO",
+      "3": "LANSP1"
+    },
+    "5361814": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "1B": "SCIBIO",
+      "4A": "ENG9",
+      "3": "LANSP1"
+    },
+    "5361846": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5361895": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "3": "PEHealthHS"
+    },
+    "5361909": {
+      "4A": "BIB12",
+      "2A": "MATHALGIII",
+      "1A": "TECHDIGIT",
+      "2B": "STUDY",
+      "1B": "DEENG151",
+      "4B": "SCIPHY"
+    },
+    "5407554": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "ARTChor"
+    },
+    "5361853": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "ARTSTD2",
+      "1A": "LANSP2",
+      "4A": "MATALG2"
+    },
+    "5303312": {
+      "1B": "BIB11"
+    },
+    "5361804": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361881": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "MATTRIG",
+      "3": "SCIERTH",
+      "4A": "FINLIT",
+      "2B": "STUDY"
+    },
+    "5361920": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "4B": "MATTRIG",
+      "2B": "PERS"
+    },
+    "5361883": {
+      "1B": "BIB11",
+      "4A": "DEWCIV1",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH"
+    },
+    "5361886": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "MATTRIG",
+      "2B": "SCIANATPH",
+      "4A": "SCIMABIO",
+      "3": "ARTSTD1",
+      "1A": "DEBIO101"
+    },
+    "5361851": {
+      "2A": "BIB10",
+      "4A": "MATALG2",
+      "1B": "SOC10GOVH",
+      "2B": "SCICHEM10H",
+      "4B": "ENG10H"
+    },
+    "5361891": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "1A": "TECHDIGIT",
+      "4A": "FINLIT"
+    },
+    "5361825": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361796": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "MATALG1",
+      "3": "LANSP1"
+    },
+    "5361924": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATHSTATSH",
+      "2B": "SCIANATPH",
+      "3": "DEITCHG",
+      "4B": "INTERN2"
+    },
+    "5361913": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATHSTATSH",
+      "2B": "SCICHEM10H",
+      "1A": "PEPF",
+      "4B": "SOCMODUS"
+    },
+    "5361843": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "3": "PEHealthHS",
+      "1B": "PEHS"
+    },
+    "5361865": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV"
+    },
+    "5361870": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "1B": "SOC10GOVH",
+      "2B": "SCICHEM10H",
+      "1A": "LANSP2"
+    },
+    "5361869": {
+      "2A": "BIB10",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "ENG10",
+      "4B": "ENG10H"
+    },
+    "5361936": {
+      "4A": "BIB12",
+      "1B": "APComp",
+      "1A": "ENG12WORLD",
+      "4B": "TECHYEAR",
+      "2B": "STUDY"
+    },
+    "5361812": {
+      "2B": "SCIBIOH",
+      "1A": "MATGEOMH"
+    },
+    "5407480": {
+      "1B": "BIB11",
+      "4A": "DEWCIV1",
+      "3": "ENG11AMLTH-",
+      "2B": "SCIBIOH",
+      "1A": "TECHDIGIT",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361862": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2",
+      "1A": "LANSP2"
+    },
+    "5407584": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "MATALG1",
+      "2B": "SCIBIOH",
+      "3": "LANSP1"
+    },
+    "5361906": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2B": "SCIANATPH",
+      "3": "SOCCONT"
+    },
+    "5361918": {
+      "4A": "BIB12",
+      "2B": "SCIANATPH",
+      "1B": "DEENG151",
+      "2A": "MATHALGIII"
+    },
+    "5361798": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "SCIBIO",
+      "3": "PEHealthHS"
+    },
+    "5361910": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "2A": "MATTrigH",
+      "2B": "STUDY",
+      "1B": "DEENG151"
+    },
+    "5361835": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361819": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "SCIBIO",
+      "3": "PEHealthHS"
+    },
+    "5361847": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "PEHS",
+      "4A": "MATALG2"
+    },
+    "5361832": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2"
+    },
+    "5361830": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "TECHBRJR"
+    },
+    "5361831": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361864": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "ARTChor"
+    },
+    "5361803": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "MATALG1",
+      "2A": "ARTBND"
+    },
+    "5361914": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "4B": "MATTRIG",
+      "1A": "TECHDIGIT",
+      "2B": "STUDY",
+      "2A": "MATALG2H"
+    },
+    "5407527": {
+      "4A": "BIB12",
+      "2A": "MATHALGIII",
+      "1B": "DEENG151",
+      "4B": "SOC9",
+      "3": "DEITCHG",
+      "2B": "ARTDRAW"
+    },
+    "5361872": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2B": "SCICHEM10H",
+      "2A": "SOC11",
+      "4A": "MATALG2",
+      "1A": "LANSP2"
+    },
+    "5361932": {
+      "4A": "BIB12",
+      "1A": "DEBIO101",
+      "1B": "DEENG151",
+      "2B": "STUDY",
+      "4B": "MATTRIG",
+      "2A": "MATALG2H"
+    },
+    "5361818": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "2B": "SCIBIOH",
+      "3": "LANSP1",
+      "1B": "PEHS"
+    },
+    "5432621": {
+      "1B": "BIB11",
+      "2B": "SOC10GOV",
+      "2A": "ENG11"
+    },
+    "5361928": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATHSTATSH",
+      "1A": "DEBIO101",
+      "4B": "TECHGRAPHIC",
+      "2B": "STUDY"
+    },
+    "5361833": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "2B": "SOC10GOV",
+      "3": "MATGEOM",
+      "1B": "ARTChor"
+    },
+    "5361817": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "1B": "MATALG1",
+      "3": "LANSP1"
+    },
+    "5407499": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2B": "SCIBIOH",
+      "1A": "LANSP2"
+    },
+    "5407500": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2A": "MATALG2H",
+      "2B": "SCICHEM10H",
+      "1A": "LANSP2"
+    },
+    "5361840": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV"
+    },
+    "5361876": {
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2A": "MATTrigH"
+    },
+    "5361902": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "2B": "SCICHEM10H",
+      "4A": "FINLIT",
+      "4B": "FAF",
+      "3": "ENG11AMLTH-"
+    },
+    "5361885": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "1A": "MATGEOMH",
+      "4A": "DEWCIV1",
+      "4B": "TECHGRAPHIC",
+      "2A": "MATTrigH"
+    },
+    "5361930": {
+      "4A": "BIB12",
+      "1A": "MATAPCALCAB",
+      "4B": "TECHGRAPHIC",
+      "2A": "ARTBND",
+      "2B": "PERS",
+      "3": "SOCCONT",
+      "1B": "DEENG151"
+    },
+    "5407506": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "2A": "MATHALGIII",
+      "2B": "SCIANATPH",
+      "4B": "INTERN2"
+    },
+    "5419610": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATHALGIII"
+    },
+    "5407481": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "2B": "MATALG1H",
+      "1B": "SCIBIO",
+      "3": "PEHealthHS"
+    },
+    "5361903": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "2A": "MATHALGIII",
+      "4B": "SCIPHY",
+      "1A": "LANSP2"
+    },
+    "5361816": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361917": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "4B": "TECHGRAPHIC",
+      "2B": "PERS",
+      "2A": "MATHSTATSH",
+      "1B": "DEENG151"
+    },
+    "5361888": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "2B": "SCIANATPH",
+      "4A": "SCIMABIO",
+      "1A": "LANSP2"
+    },
+    "5361805": {
+      "1B": "SCIBIO",
+      "1A": "MATGEOMH"
+    },
+    "5361935": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "1A": "DEBIO101",
+      "4B": "INTERN2",
+      "2B": "STUDY"
+    },
+    "5361898": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4A": "DEWCIV1",
+      "2B": "SCICHEM10H",
+      "4B": "MATTRIG"
+    },
+    "5361878": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "SCIPHY",
+      "4A": "MATALG2",
+      "3": "ARTSTD1",
+      "1A": "LANSP2"
+    },
+    "5407497": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "1B": "PEHS",
+      "4B": "ENG10H"
+    },
+    "5407556": {
+      "1B": "BIB11",
+      "4A": "DEWCIV1",
+      "3": "ENG11AMLTH-",
+      "2A": "MATALG2H",
+      "2B": "SCICHEM10H",
+      "1A": "TECHDIGIT",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361868": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2",
+      "1A": "LANSP2",
+      "1B": "PEHS"
+    },
+    "5361844": {
+      "2A": "MATALG2H",
+      "1B": "SOC10GOVH",
+      "2B": "SCICHEM10H",
+      "4B": "ENG10H"
+    },
+    "5361911": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "2A": "MATTrigH",
+      "2B": "SCIANATPH",
+      "1A": "DESOCWCIV2",
+      "4B": "TECHYEAR"
+    },
+    "5361919": {
+      "4A": "BIB12",
+      "2B": "PERS",
+      "1A": "PEPF",
+      "1B": "DEENG151",
+      "3": "ENG11AMLTH-",
+      "2A": "MATHSTATSH"
+    },
+    "5361822": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "3": "ENG9H",
+      "2B": "SCIBIOH",
+      "1B": "PEHS"
+    },
+    "5361927": {
+      "4A": "BIB12",
+      "2B": "STUDY",
+      "1B": "DEENG151",
+      "3": "PEHealthHS"
+    },
+    "5361933": {
+      "4A": "BIB12",
+      "2A": "MATHALGIII",
+      "1A": "ENG12WORLD",
+      "2B": "STUDY",
+      "4B": "INTERN2"
+    },
+    "5407494": {
+      "2A": "BIB10",
+      "4B": "ENG10H",
+      "1B": "SOC10GOVH",
+      "1A": "LANSP2",
+      "2B": "SOC10GOV"
+    },
+    "5361889": {
+      "1B": "BIB11",
+      "2A": "ENG11",
+      "4B": "MATTRIG",
+      "2B": "SCICHEM10H",
+      "1A": "LANSP2",
+      "4A": "FINLIT"
+    },
+    "5361871": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "4A": "MATALG2",
+      "2B": "SCICHEM10H",
+      "3": "PEHealthHS",
+      "1B": "PEHS",
+      "4B": "ENG10H"
+    },
+    "5407560": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4B": "TECHGRAPHIC"
+    },
+    "5361813": {
+      "1A": "BIB9",
+      "4B": "SOC9",
+      "4A": "ENG9",
+      "2B": "MATALG1H",
+      "1B": "SCIBIO",
+      "3": "PEHealthHS"
+    },
+    "5407590": {
+      "2B": "SCIBIOH",
+      "1A": "MATGEOMH"
+    },
+    "5361873": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2A": "MATALG2H",
+      "2B": "SCIANATPH",
+      "1A": "LANSP2"
+    },
+    "5361925": {
+      "4A": "BIB12",
+      "1B": "DEENG151",
+      "4B": "MATTRIG",
+      "2B": "STUDY",
+      "3": "SOCCONT",
+      "1A": "DEBIO101",
+      "2A": "MATALG2H"
+    },
+    "5361845": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "4A": "MATALG2",
+      "3": "SCIERTH",
+      "1B": "SOC10GOVH",
+      "4B": "ENG10H",
+      "2B": "SCICHEM10H"
+    },
+    "5407519": {
+      "2A": "BIB10",
+      "1A": "ENG10",
+      "3": "SCIERTH",
+      "2B": "SOC10GOV",
+      "4A": "MATALG2",
+      "1B": "TECHBRJR"
+    },
+    "5361887": {
+      "1B": "BIB11",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "2A": "ARTBND"
+    },
+    "5361877": {
+      "1B": "BIB11",
+      "4A": "DEWCIV1",
+      "3": "ENG11AMLTH-",
+      "2A": "MATTrigH",
+      "2B": "STUDY"
+    },
+    "5361934": {
+      "4A": "BIB12",
+      "1A": "ENG12WORLD",
+      "1B": "APComp",
+      "3": "PEHealthHS",
+      "2B": "STUDY"
+    }
+  },
+  "room_schedules": {
+    "101": {
+      "1A": "LANSP2",
+      "1B": "BIB11",
+      "2A": "BIB10",
+      "2B": "SCICHEM10H",
+      "3": "PEHealthHS",
+      "4A": "BIB12",
+      "4B": "SOC9"
+    },
+    "102": {
+      "1A": "TECHDIGIT",
+      "1B": "PEHS",
+      "2A": "MATALG2H",
+      "2B": "SOC10GOV",
+      "3": "LANSP1",
+      "4A": "MATALG2",
+      "4B": "TECHGRAPHIC"
+    },
+    "103": {
+      "1A": "BIB9",
+      "1B": "DEENG151",
+      "2A": "SOC11",
+      "2B": "STUDY",
+      "3": "SCIERTH",
+      "4A": "FINLIT",
+      "4B": "ENG10H"
+    },
+    "104": {
+      "1A": "ENG10",
+      "1B": "SCIBIO",
+      "2A": "ENG11",
+      "2B": "SCIBIOH",
+      "3": "ENG11AMLTH-",
+      "4A": "DEWCIV1",
+      "4B": "MATTRIG"
+    },
+    "105": {
+      "1A": "MATGEOMH",
+      "1B": "SOC10GOVH",
+      "2A": "ARTBND",
+      "2B": "ARTDRAW",
+      "3": "MATGEOM",
+      "4A": "ENG9",
+      "4B": "SCIPHY"
+    },
+    "106": {
+      "1A": "DEBIO101",
+      "1B": "ARTChor",
+      "2A": "MATTrigH",
+      "2B": "SCIANATPH",
+      "3": "ENG9H",
+      "4A": "INTERN1",
+      "4B": "INTERN2"
+    },
+    "107": {
+      "1A": "ENG12WORLD",
+      "1B": "ARTSTD2",
+      "2A": "MATHALGIII",
+      "2B": "LANSP3",
+      "3": "ARTSTD1",
+      "4A": "SCIMABIO",
+      "4B": "FAF"
+    },
+    "108": {
+      "1A": "PEPF",
+      "1B": "MATALG1",
+      "2A": "TECHADVROB",
+      "2B": "PERS",
+      "3": "ENG12WORLDH",
+      "4A": "SCIPHYH",
+      "4B": "TECHYEAR"
+    },
+    "109": {
+      "1A": "MATAPCALCAB",
+      "1B": "APComp",
+      "2A": "MATHSTATSH",
+      "2B": "MATALG1H",
+      "3": "SOCCONT",
+      "4A": "DESOCIP",
+      "4B": "SOCMODUS"
+    },
+    "110": {
+      "1A": "DESOCWCIV2",
+      "1B": "TECHBRJR",
+      "2A": "SOCIB",
+      "2B": "ENGSPCH",
+      "3": "DEITCHG",
+      "4A": "DECHEM105",
+      "4B": "INDSTUDY1"
+    },
+    "111": {
+      "1A": "INDSTUDY2",
+      "1B": "ENGJOUR",
+      "2A": "DEENG101",
+      "2B": "MATDESTATS"
+    }
+  },
+  "lecturer_schedules": {
+    "1000": {
+      "2A": "BIB10",
+      "4A": "BIB12"
+    },
+    "1001": {
+      "1A": "BIB9",
+      "4B": "FAF"
+    },
+    "1002": {
+      "1B": "BIB11"
+    },
+    "1010": {
+      "4B": "ENG10H",
+      "3": "ENG11AMLTH-",
+      "1A": "ENG10",
+      "1B": "ENGJOUR"
+    },
+    "1011": {
+      "4A": "ENG9",
+      "1B": "DEENG151",
+      "3": "ENG9H",
+      "2A": "DEENG101"
+    },
+    "1012": {
+      "2A": "ENG11",
+      "3": "ENG12WORLDH",
+      "1A": "ENG12WORLD",
+      "2B": "ENGSPCH"
+    },
+    "1020": {
+      "2A": "MATHALGIII",
+      "1A": "MATAPCALCAB"
+    },
+    "1021": {
+      "1A": "MATGEOMH",
+      "4B": "MATTRIG",
+      "2B": "MATALG1H",
+      "2A": "MATHSTATSH"
+    },
+    "1022": {
+      "4A": "MATALG2",
+      "1B": "MATALG1",
+      "3": "MATGEOM",
+      "2B": "MATDESTATS"
+    },
+    "1030": {
+      "4B": "SCIPHY",
+      "2B": "SCIANATPH",
+      "1B": "SCIBIO",
+      "4A": "DECHEM105"
+    },
+    "1031": {
+      "2B": "SCICHEM10H",
+      "4A": "SCIMABIO",
+      "3": "SCIERTH"
+    },
+    "1032": {
+      "2B": "SCIBIOH",
+      "1A": "DEBIO101",
+      "4A": "SCIPHYH"
+    },
+    "1040": {
+      "2B": "SOC10GOV",
+      "2A": "SOCIB",
+      "4A": "DESOCIP"
+    },
+    "1041": {
+      "1B": "SOC10GOVH",
+      "4A": "DEWCIV1",
+      "4B": "SOCMODUS",
+      "1A": "DESOCWCIV2",
+      "3": "DEITCHG"
+    },
+    "1042": {
+      "4B": "SOC9",
+      "2B": "STUDY",
+      "3": "SOCCONT"
+    },
+    "1050": {
+      "2B": "LANSP3"
+    },
+    "1051": {
+      "3": "LANSP1"
+    },
+    "1052": {
+      "1A": "LANSP2"
+    },
+    "1060": {
+      "1A": "TECHDIGIT",
+      "1B": "TECHBRJR"
+    },
+    "1061": {
+      "4B": "TECHGRAPHIC",
+      "2A": "TECHADVROB"
+    },
+    "1062": {
+      "4B": "TECHYEAR"
+    },
+    "1070": {
+      "3": "PEHealthHS",
+      "1A": "PEPF"
+    },
+    "1071": {
+      "1B": "PEHS"
+    },
+    "1072": {
+      "2B": "PERS"
+    },
+    "1080": {
+      "3": "ARTSTD1",
+      "1B": "ARTChor"
+    },
+    "1081": {
+      "1B": "ARTSTD2",
+      "2B": "ARTDRAW"
+    },
+    "1082": {
+      "2A": "ARTBND"
+    },
+    "1090": {
+      "4A": "INTERN1",
+      "1A": "INDSTUDY2"
+    },
+    "1091": {
+      "4B": "INTERN2"
+    },
+    "1092": {
+      "4B": "INDSTUDY1"
+    },
+    "1100": {
+      "1B": "APComp"
+    }
+  }
+}

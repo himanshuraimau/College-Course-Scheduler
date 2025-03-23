@@ -1,0 +1,5705 @@
+{
+  "schedule": {
+    "1A": [
+      {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114",
+        "students": 18
+      },
+      {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101",
+        "students": 23
+      },
+      {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106",
+        "students": 20
+      },
+      {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109",
+        "students": 19
+      },
+      {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107",
+        "students": 5
+      },
+      {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124",
+        "students": 6
+      },
+      {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103",
+        "students": 6
+      },
+      {
+        "course": "DESOCWCIV2",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "116",
+        "students": 4
+      },
+      {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115",
+        "students": 8
+      }
+    ],
+    "1B": [
+      {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106",
+        "students": 8
+      },
+      {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102",
+        "students": 31
+      },
+      {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114",
+        "students": 7
+      },
+      {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115",
+        "students": 7
+      },
+      {
+        "course": "TECHBRJR",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "101",
+        "students": 3
+      },
+      {
+        "course": "DEENG101",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "122",
+        "students": 1
+      },
+      {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109",
+        "students": 8
+      },
+      {
+        "course": "SOCCONT",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103",
+        "students": 3
+      },
+      {
+        "course": "DESOCIP",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "107",
+        "students": 3
+      },
+      {
+        "course": "ENGSPCH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "116",
+        "students": 2
+      },
+      {
+        "course": "MATHSTATSH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124",
+        "students": 5
+      },
+      {
+        "course": "DEITCHG",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "125",
+        "students": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108",
+        "students": 40
+      },
+      {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113",
+        "students": 40
+      },
+      {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114",
+        "students": 7
+      },
+      {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109",
+        "students": 12
+      },
+      {
+        "course": "FAF",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "101",
+        "students": 3
+      },
+      {
+        "course": "INDSTUDY2",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "122",
+        "students": 1
+      },
+      {
+        "course": "SOCMODUS",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "103",
+        "students": 3
+      },
+      {
+        "course": "ARTChor",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "115",
+        "students": 4
+      },
+      {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106",
+        "students": 13
+      },
+      {
+        "course": "MATALG1H",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124",
+        "students": 4
+      },
+      {
+        "course": "SCIPHYH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "107",
+        "students": 3
+      },
+      {
+        "course": "SOCIB",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "116",
+        "students": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109",
+        "students": 18
+      },
+      {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104",
+        "students": 26
+      },
+      {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106",
+        "students": 20
+      },
+      {
+        "course": "TECHYEAR",
+        "section": 1,
+        "lecturer": "1062",
+        "room": "124",
+        "students": 3
+      },
+      {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114",
+        "students": 8
+      },
+      {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101",
+        "students": 23
+      },
+      {
+        "course": NaN,
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103",
+        "students": 3
+      },
+      {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115",
+        "students": 5
+      }
+    ],
+    "3": [
+      {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104",
+        "students": 30
+      },
+      {
+        "course": "SCIPHY",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107",
+        "students": 3
+      },
+      {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114",
+        "students": 6
+      },
+      {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101",
+        "students": 22
+      },
+      {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103",
+        "students": 22
+      },
+      {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109",
+        "students": 10
+      },
+      {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115",
+        "students": 6
+      },
+      {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106",
+        "students": 14
+      },
+      {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105",
+        "students": 27
+      },
+      {
+        "course": "INDSTUDY1",
+        "section": 1,
+        "lecturer": "1092",
+        "room": "122",
+        "students": 1
+      },
+      {
+        "course": "MATAPCALCAB",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "116",
+        "students": 2
+      },
+      {
+        "course": "PERS",
+        "section": 1,
+        "lecturer": "1072",
+        "room": "124",
+        "students": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106",
+        "students": 18
+      },
+      {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108",
+        "students": 40
+      },
+      {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124",
+        "students": 5
+      },
+      {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115",
+        "students": 10
+      },
+      {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109",
+        "students": 15
+      },
+      {
+        "course": "INTERN1",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "103",
+        "students": 4
+      },
+      {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114",
+        "students": 11
+      },
+      {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101",
+        "students": 5
+      },
+      {
+        "course": "ENGJOUR",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "107",
+        "students": 1
+      },
+      {
+        "course": "DECHEM105",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "116",
+        "students": 1
+      },
+      {
+        "course": "MATDESTATS",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "122",
+        "students": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104",
+        "students": 30
+      },
+      {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108",
+        "students": 37
+      },
+      {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106",
+        "students": 19
+      },
+      {
+        "course": "ENG9",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103",
+        "students": 1
+      },
+      {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115",
+        "students": 15
+      },
+      {
+        "course": "PEHS",
+        "section": 1,
+        "lecturer": "1071",
+        "room": "101",
+        "students": 2
+      },
+      {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109",
+        "students": 18
+      },
+      {
+        "course": "SCIANATPH",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107",
+        "students": 1
+      },
+      {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124",
+        "students": 11
+      },
+      {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114",
+        "students": 16
+      },
+      {
+        "course": "ENG12WORLD",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "116",
+        "students": 1
+      }
+    ]
+  },
+  "student_schedules": {
+    "5407488": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SCIPHY",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361799": {
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      },
+      "4B": {
+        "course": "ENG9",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361901": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "PEHS",
+        "section": 1,
+        "lecturer": "1071",
+        "room": "101"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361882": {
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "4B": {
+        "course": "SCIANATPH",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      },
+      "4A": {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      }
+    },
+    "5361922": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "4A": {
+        "course": "INTERN1",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "103"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      }
+    },
+    "5361842": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      }
+    },
+    "5361905": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "4A": {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107"
+      }
+    },
+    "5361867": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5642283": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "1A": {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361838": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361926": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "INDSTUDY1",
+        "section": 1,
+        "lecturer": "1092",
+        "room": "122"
+      },
+      "2B": {
+        "course": "TECHYEAR",
+        "section": 1,
+        "lecturer": "1062",
+        "room": "124"
+      },
+      "2A": {
+        "course": "INDSTUDY2",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "122"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      }
+    },
+    "5407561": {
+      "2A": {
+        "course": "SOCMODUS",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "103"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      }
+    },
+    "5361859": {
+      "2A": {
+        "course": "ARTChor",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "115"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361806": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "MATALG1H",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      }
+    },
+    "5434946": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "4A": {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101"
+      }
+    },
+    "5361937": {
+      "4B": {
+        "course": "ENG12WORLD",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "116"
+      },
+      "2A": {
+        "course": "SCIPHYH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "107"
+      },
+      "3": {
+        "course": "MATAPCALCAB",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "116"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5593175": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "ENGJOUR",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "107"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      }
+    },
+    "5361915": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "INTERN1",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "103"
+      },
+      "2B": {
+        "course": NaN,
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      },
+      "2A": {
+        "course": "ARTChor",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "115"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      }
+    },
+    "5361874": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4A": {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      }
+    },
+    "5439293": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361884": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "1B": {
+        "course": "TECHBRJR",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "101"
+      }
+    },
+    "5361797": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5407520": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361892": {
+      "2A": {
+        "course": "SOCIB",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "116"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      }
+    },
+    "5361820": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361879": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "1A": {
+        "course": "DESOCWCIV2",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "116"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1B": {
+        "course": "DEENG101",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "122"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      }
+    },
+    "5361897": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "DESOCWCIV2",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "116"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      }
+    },
+    "5361808": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361827": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361810": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5407518": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      }
+    },
+    "5361900": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      }
+    },
+    "5361929": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "2B": {
+        "course": NaN,
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      }
+    },
+    "5361880": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "4A": {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101"
+      }
+    },
+    "5361863": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361802": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361923": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      },
+      "2A": {
+        "course": "SOCMODUS",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "103"
+      },
+      "1B": {
+        "course": "SOCCONT",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      }
+    },
+    "5407593": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      }
+    },
+    "5409913": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361857": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361904": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      }
+    },
+    "5407564": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      }
+    },
+    "5361836": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5510555": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5407543": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5424569": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      }
+    },
+    "5424570": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361809": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      }
+    },
+    "5361789": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "2A": {
+        "course": "SCIPHYH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "107"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      }
+    },
+    "5407517": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361890": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "PERS",
+        "section": 1,
+        "lecturer": "1072",
+        "room": "124"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      }
+    },
+    "5361912": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "DESOCWCIV2",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "116"
+      },
+      "1B": {
+        "course": "ENGSPCH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "116"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      }
+    },
+    "5361858": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5407498": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      },
+      "1A": {
+        "course": "ENG12WORLDH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "124"
+      }
+    },
+    "5361856": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361899": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361896": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      }
+    },
+    "5361834": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361907": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      }
+    },
+    "5361921": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "2A": {
+        "course": "SCIPHYH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "107"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      }
+    },
+    "5361893": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361801": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361828": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361908": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      }
+    },
+    "5361807": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "MATALG1H",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361814": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361846": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361895": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361909": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      }
+    },
+    "5407554": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361853": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      }
+    },
+    "5303312": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      }
+    },
+    "5361804": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361881": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      }
+    },
+    "5361920": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "3": {
+        "course": "PERS",
+        "section": 1,
+        "lecturer": "1072",
+        "room": "124"
+      },
+      "2A": {
+        "course": "FAF",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "101"
+      }
+    },
+    "5361883": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "1A": {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      }
+    },
+    "5361886": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ARTSTD1",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "107"
+      }
+    },
+    "5361851": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      }
+    },
+    "5361891": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      }
+    },
+    "5361825": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361796": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361924": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "DEITCHG",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "125"
+      },
+      "4A": {
+        "course": "INTERN1",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "103"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      }
+    },
+    "5361913": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "MATHSTATSH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SOCMODUS",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "103"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      }
+    },
+    "5361843": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      }
+    },
+    "5361865": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361870": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361869": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      }
+    },
+    "5361936": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "4A": {
+        "course": "INTERN1",
+        "section": 1,
+        "lecturer": "1090",
+        "room": "103"
+      }
+    },
+    "5407480": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361862": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5407584": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361906": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1B": {
+        "course": "DESOCIP",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "107"
+      },
+      "2A": {
+        "course": "ARTChor",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "115"
+      }
+    },
+    "5361918": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      }
+    },
+    "5361798": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361910": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      }
+    },
+    "5361835": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361819": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361847": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361832": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361830": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "TECHBRJR",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "101"
+      }
+    },
+    "5361831": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361864": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361803": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361914": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      }
+    },
+    "5407527": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "DESOCIP",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "107"
+      },
+      "2B": {
+        "course": NaN,
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      }
+    },
+    "5361872": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361932": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "2A": {
+        "course": "FAF",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "101"
+      }
+    },
+    "5361818": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5432621": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      }
+    },
+    "5361928": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "1B": {
+        "course": "MATHSTATSH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "4A": {
+        "course": "DECHEM105",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "116"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "2A": {
+        "course": "SOCIB",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "116"
+      }
+    },
+    "5361833": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      }
+    },
+    "5361817": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "1B": {
+        "course": "MATALG1",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "115"
+      },
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5407499": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      }
+    },
+    "5407500": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361840": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "TECHADVROB",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "109"
+      }
+    },
+    "5361902": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      }
+    },
+    "5361885": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      }
+    },
+    "5361930": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "MATAPCALCAB",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "116"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ARTBND",
+        "section": 1,
+        "lecturer": "1082",
+        "room": "103"
+      },
+      "1B": {
+        "course": "SOCCONT",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      }
+    },
+    "5407506": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIPHY",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      }
+    },
+    "5419610": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      }
+    },
+    "5407481": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "MATALG1H",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361903": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIPHY",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "107"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361816": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361917": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "MATDESTATS",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "122"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "3": {
+        "course": "PERS",
+        "section": 1,
+        "lecturer": "1072",
+        "room": "124"
+      },
+      "1B": {
+        "course": "MATHSTATSH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      }
+    },
+    "5361888": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "4A": {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "1B": {
+        "course": "ENGSPCH",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "116"
+      }
+    },
+    "5361935": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      }
+    },
+    "5361898": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "4A": {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      }
+    },
+    "5361878": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4B": {
+        "course": "SOC11",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5407497": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5407556": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361868": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "4B": {
+        "course": "PEHS",
+        "section": 1,
+        "lecturer": "1071",
+        "room": "101"
+      }
+    },
+    "5361911": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "DESOCWCIV2",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "116"
+      },
+      "1B": {
+        "course": "ARTSTD2",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "114"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      }
+    },
+    "5361919": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "PERS",
+        "section": 1,
+        "lecturer": "1072",
+        "room": "124"
+      },
+      "1A": {
+        "course": "PEPF",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "115"
+      },
+      "4A": {
+        "course": "DEBIO101",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "115"
+      },
+      "1B": {
+        "course": "MATHSTATSH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      }
+    },
+    "5361822": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2B": {
+        "course": "LANSP1",
+        "section": 1,
+        "lecturer": "1051",
+        "room": "104"
+      }
+    },
+    "5361927": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "2B": {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115"
+      },
+      "1B": {
+        "course": "LANSP3",
+        "section": 1,
+        "lecturer": "1050",
+        "room": "106"
+      },
+      "4A": {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101"
+      }
+    },
+    "5361933": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "4A": {
+        "course": "MATHALGIII",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      },
+      "2B": {
+        "course": "INTERN2",
+        "section": 1,
+        "lecturer": "1091",
+        "room": "114"
+      }
+    },
+    "5407494": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      }
+    },
+    "5361889": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "3": {
+        "course": "ENG11",
+        "section": 1,
+        "lecturer": "1012",
+        "room": "101"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      }
+    },
+    "5361871": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "4B": {
+        "course": "SCICHEM10H",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5407560": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361813": {
+      "3": {
+        "course": "BIB9",
+        "section": 1,
+        "lecturer": "1001",
+        "room": "104"
+      },
+      "4B": {
+        "course": "SOC9",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "104"
+      },
+      "2A": {
+        "course": "MATALG1H",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "124"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "2B": {
+        "course": "TECHDIGIT",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "109"
+      },
+      "4A": {
+        "course": "TECHGRAPHIC",
+        "section": 1,
+        "lecturer": "1061",
+        "room": "106"
+      }
+    },
+    "5361873": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4A": {
+        "course": "SCIMABIO",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "124"
+      }
+    },
+    "5361925": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "3": {
+        "course": "DEENG151",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "103"
+      },
+      "4A": {
+        "course": "MATTRIG",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "109"
+      },
+      "2B": {
+        "course": "TECHYEAR",
+        "section": 1,
+        "lecturer": "1062",
+        "room": "124"
+      },
+      "2A": {
+        "course": "ARTChor",
+        "section": 1,
+        "lecturer": "1080",
+        "room": "115"
+      },
+      "1B": {
+        "course": "SOCCONT",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "103"
+      }
+    },
+    "5361845": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "4A": {
+        "course": "LANSP2",
+        "section": 1,
+        "lecturer": "1052",
+        "room": "108"
+      },
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      }
+    },
+    "5407519": {
+      "2A": {
+        "course": "BIB10",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "ENG10",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "101"
+      },
+      "3": {
+        "course": "SCIERTH",
+        "section": 1,
+        "lecturer": "1031",
+        "room": "105"
+      },
+      "1A": {
+        "course": "SOC10GOV",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "101"
+      },
+      "1B": {
+        "course": "TECHBRJR",
+        "section": 1,
+        "lecturer": "1060",
+        "room": "101"
+      },
+      "4A": {
+        "course": "ARTDRAW",
+        "section": 1,
+        "lecturer": "1081",
+        "room": "101"
+      }
+    },
+    "5361887": {
+      "2A": {
+        "course": "BIB11",
+        "section": 1,
+        "lecturer": "1002",
+        "room": "113"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "MATALG2",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "109"
+      }
+    },
+    "5361877": {
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      },
+      "3": {
+        "course": "FINLIT",
+        "section": 1,
+        "lecturer": "1040",
+        "room": "115"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      }
+    },
+    "5361934": {
+      "4B": {
+        "course": "BIB12",
+        "section": 1,
+        "lecturer": "1000",
+        "room": "108"
+      },
+      "2B": {
+        "course": "APComp",
+        "section": 1,
+        "lecturer": "1100",
+        "room": "115"
+      },
+      "1B": {
+        "course": "PEHealthHS",
+        "section": 1,
+        "lecturer": "1070",
+        "room": "102"
+      },
+      "3": {
+        "course": "STUDY",
+        "section": 1,
+        "lecturer": "1042",
+        "room": "109"
+      }
+    },
+    "5361821": {
+      "2A": {
+        "course": "ENG9H",
+        "section": 1,
+        "lecturer": "1011",
+        "room": "106"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361811": {
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      }
+    },
+    "5361800": {
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "4B": {
+        "course": "MATGEOM",
+        "section": 1,
+        "lecturer": "1022",
+        "room": "114"
+      }
+    },
+    "5361812": {
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      }
+    },
+    "5361876": {
+      "4B": {
+        "course": "ENG11AMLTH-",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "109"
+      },
+      "2B": {
+        "course": "DEWCIV1",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "2A": {
+        "course": "MATTrigH",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "114"
+      }
+    },
+    "5361805": {
+      "2A": {
+        "course": "SCIBIO",
+        "section": 1,
+        "lecturer": "1030",
+        "room": "109"
+      },
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      }
+    },
+    "5361844": {
+      "4B": {
+        "course": "MATALG2H",
+        "section": 1,
+        "lecturer": "1020",
+        "room": "106"
+      },
+      "3": {
+        "course": "SOC10GOVH",
+        "section": 1,
+        "lecturer": "1041",
+        "room": "106"
+      },
+      "1A": {
+        "course": "ENG10H",
+        "section": 1,
+        "lecturer": "1010",
+        "room": "114"
+      }
+    },
+    "5407590": {
+      "1A": {
+        "course": "SCIBIOH",
+        "section": 1,
+        "lecturer": "1032",
+        "room": "106"
+      },
+      "3": {
+        "course": "MATGEOMH",
+        "section": 1,
+        "lecturer": "1021",
+        "room": "114"
+      }
+    }
+  },
+  "lecturer_schedules": {},
+  "room_schedules": {},
+  "statistics": {
+    "total_requests": 1259,
+    "fulfilled_requests": 835,
+    "fulfillment_rate": 0.6632247815726767,
+    "by_priority": {
+      "required": {
+        "total": 178,
+        "fulfilled": 177,
+        "rate": 0.9943820224719101
+      },
+      "requested": {
+        "total": 963,
+        "fulfilled": 610,
+        "rate": 0.6334371754932503
+      },
+      "recommended": {
+        "total": 118,
+        "fulfilled": 48,
+        "rate": 0.4067796610169492
+      }
+    }
+  }
+}
